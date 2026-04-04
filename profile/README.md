@@ -1,41 +1,58 @@
 <div align="center">
 
-### **SORABBYNGO LABS**
-### RHYTHM OF DIGITAL LIFE
+# SORABBYNGO Labs
 
-*Africa-First · AI-Native · Sovereign Computing*
+### *Rhythm of Digital Life*
 
-[![Organization](https://img.shields.io/badge/org-sorabbyngo--Labs-gold?style=for-the-badge&labelColor=0a0a0a)](https://github.com/sorabbyngo-Labs)
-[![Status](https://img.shields.io/badge/status-active%20development-brightgreen?style=for-the-badge&labelColor=0a0a0a)](https://github.com/sorabbyngo-Labs)
-[![Origin](https://img.shields.io/badge/origin-Nairobi%2C%20Kenya-blue?style=for-the-badge&labelColor=0a0a0a)](https://github.com/sorabbyngo-Labs)
+**Africa-first AI operating system — built from the kernel up.**
 
-</div>
+Sorabbyngo is a next-generation AI platform designed for African deployment conditions: low connectivity, distributed nodes, offline-first operation, and data sovereignty by architecture.
 
 ---
 
-## What We're Building
+### The Stack
 
-**SORABBYNGO** is an Africa-first AI operating system ecosystem — built from the kernel up.
+```
+┌─────────────────────────────────────────────────┐
+│              SORABBYNGO AI OS                   │
+├─────────────────────────────────────────────────┤
+│  Chameha        — AI personality and interface  │
+├─────────────────────────────────────────────────┤
+│  Novela         — AI health intelligence        │
+├─────────────────────────────────────────────────┤
+│  Byngox         — Swarm reasoning engine        │
+├─────────────────────────────────────────────────┤
+│  CML            — Cognitive mediation layer     │
+├─────────────────────────────────────────────────┤
+│  Byngonet       — Distributed mesh network      │
+├─────────────────────────────────────────────────┤
+│  SORABBYNGO OS  — Custom Linux 6.19.10 kernel   │
+└─────────────────────────────────────────────────┘
+```
 
-| Component | Description |
-|---|---|
-| **SORABBYNGO OS** | Custom Linux kernel — built on Linux 6.12 LTS |
-| **Byngox** | Swarm reasoning AI engine |
-| **Byngonet** | Distributed mesh network |
-| **Chameha** | AI personality and interface layer |
-| **CML** | Cognitive Mediation Layer |
-| **Novela** | AI health platform |
+---
 
-## Architecture Philosophy
+### Repositories
 
-> *"We don't port. We build."*
+| Repo | Description | Status |
+|---|---|---|
+| [sorabbyngo-os](https://github.com/sorabbyngo-Labs/sorabbyngo-os) | Custom Linux 6.19.10 kernel | 🟢 Active |
+| [byngonet](https://github.com/sorabbyngo-Labs/byngonet) | Distributed mesh network layer | 🟢 Active |
+| [novela](https://github.com/sorabbyngo-Labs/novela) | AI health platform | 🟢 Active |
+| [byngox](https://github.com/sorabbyngo-Labs/byngox) | Swarm reasoning AI engine | 🔵 In development |
+| [cml](https://github.com/sorabbyngo-Labs/cml) | Cognitive mediation layer | 🔵 In development |
+| [chameha](https://github.com/sorabbyngo-Labs/chameha) | AI personality layer | 🔵 In development |
 
-- **Sovereignty** — African data stays on African-controlled infrastructure
-- **Intelligence** — AI isn't a feature; it's the operating principle
-- **Resilience** — Built for environments where connectivity, power, and trust cannot be assumed
+---
 
-## Contact
+### Mission
 
-📧 sorabbyngoltd@gmail.com · 🌍 Nairobi, Kenya
+> *Sovereign digital infrastructure for Africa — from the silicon up.*
 
-*Building the digital infrastructure Africa will run on.*
+We build AI systems that work in the real world: offline-first, identity-aware, mesh-connected, and designed for the next billion users.
+
+---
+
+**Kisii, Kenya** · © 2026 Sorabbyngo Company
+
+</div>
