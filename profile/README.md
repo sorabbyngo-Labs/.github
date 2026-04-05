@@ -41,3 +41,16 @@ We build AI systems that work in the real world: offline-first, identity-aware, 
 ---
 
 **Kisii, Kenya** · 2026 Sorabbyngo Company
+---
+
+### Team
+
+| Name | Role |
+|---|---|
+| **Charles Odolo** | Founder and CEO |
+| **Fidel James** | Co-founder and CTO |
+| **Christabel Aloo** | Co-founder, Sales, Marketing and Product |
+
+---
+
+**Sorabbyngo Company** — Kisii, Kenya · © 2026
