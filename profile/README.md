@@ -1,56 +1,76 @@
-# SORABBYNGO Labs
-### *Rhythm of Digital Life*
+# Sorabbyngo Labs
 
-**Africa-first AI operating system — built from the kernel up.**
+**We build AI that works in Africa — offline, intelligent, and sovereign.**
 
-Sorabbyngo designs next-generation AI systems for African deployment conditions: low connectivity, distributed nodes, offline-first operation, and data sovereignty by architecture.
-
----
-
-### The Stack
-
-    SORABBYNGO AI OS
-    ├── Chameha        — AI personality and interface
-    ├── Novela         — AI health intelligence platform
-    ├── Byngox         — Swarm reasoning engine (8 agents)
-    ├── CML            — Cognitive mediation and safety layer
-    ├── Byngonet       — AI-native distributed mesh network
-    └── SORABBYNGO OS  — Custom Linux 6.19.10 kernel
+Sorabbyngo is an Africa-first AI company building a complete AI operating system from the ground up. Our technology is designed for real African conditions: low connectivity, distributed communities, and local languages.
 
 ---
 
-### Repositories
+## What We Are Building
 
-| Repo | Description | Status |
-|---|---|---|
-| [sorabbyngo-os](https://github.com/sorabbyngo-Labs/sorabbyngo-os) | Custom Linux 6.19.10 kernel | Active |
-| [byngonet](https://github.com/sorabbyngo-Labs/byngonet) | Distributed mesh network layer | Active |
-| [novela](https://github.com/sorabbyngo-Labs/novela) | AI health platform | Active |
-| [byngox](https://github.com/sorabbyngo-Labs/byngox) | Swarm reasoning AI engine | In development |
-| [cml](https://github.com/sorabbyngo-Labs/cml) | Cognitive mediation layer | In development |
-| [chameha](https://github.com/sorabbyngo-Labs/chameha) | AI personality layer | In development |
+### SORABBYNGO OS
+A full AI operating system — not an app, not a chatbot. An operating system where the intelligence is built into every layer, from the hardware identity chip to the voice interface.
+
+### Novela
+An AI health platform that works without internet. Detects counterfeit medications, supports clinical decisions, and connects patients to care — even in rural areas with no connectivity.
+
+### Byngonet
+A new kind of network built for AI. Every device on Byngonet has a cryptographic identity. Devices form intelligent mesh networks automatically — no central server required.
+
+### Byngox
+The reasoning brain of SORABBYNGO OS. Six specialized AI agents handle health decisions, drug verification, patient context, network coordination, learning, and population health monitoring.
+
+### Chameha
+The personality and voice of the OS. Speaks English and Swahili. Warm, intelligent, and present from the moment the device boots. Inspired by the vision of AI as a calm, helpful companion.
+
+### CML — Cognitive Mediation Layer
+The safety layer. Every AI decision passes through CML before reaching users. Ensures outputs are safe, explainable, and compliant with Kenya data protection law.
 
 ---
 
-### Mission
+## Our Stack
 
-*Sovereign digital infrastructure for Africa — from the silicon up.*
-
-We build AI systems that work in the real world: offline-first, identity-aware, mesh-connected, and designed for the next billion users.
-
----
-
-**Kisii, Kenya** · 2026 Sorabbyngo Company
----
-
-### Team
-
-| Name | Role |
+| Layer | Technology |
 |---|---|
-| **Charles Odolo** | Founder and CEO |
-| **Fidel James** | Co-founder and CTO |
-| **Christabel Aloo** | Co-founder, Sales, Marketing and Product |
+| Operating System | Custom Linux 6.19.10 kernel |
+| AI Runtime | ONNX + llama.cpp + Claude API |
+| Networking | Byngonet mesh protocol |
+| Health Platform | Django + DRF + FHIR R4 |
+| Voice | Whisper STT + Coqui TTS |
+| Database | PostgreSQL + Neo4j + LanceDB |
+| Message Bus | NATS JetStream |
 
 ---
 
-**Sorabbyngo Company** — Kisii, Kenya · © 2026
+## Our Repositories
+
+| Repo | What It Does |
+|---|---|
+| sorabbyngo-os | The full AI operating system |
+| novela | AI health platform |
+| byngonet | Mesh network protocol |
+| byngox | Swarm AI reasoning engine |
+| chameha | AI personality and voice interface |
+| cml | Safety and alignment layer |
+| sorabbyngo-patches | Linux kernel drivers |
+| sorabbyngo-build | Engineering roadmap and architecture |
+
+---
+
+## Where We Are
+
+| Milestone | Status |
+|---|---|
+| Custom Linux kernel with hardware identity | Done |
+| AI health platform with counterfeit detection | Done |
+| Swarm AI agent architecture | In development |
+| Voice-first boot experience | In development |
+| Offline AI runtime | Planned |
+| Mesh network protocol | Planned |
+| Full OS image and installer | Planned |
+
+---
+
+**Sorabbyngo Company**
+Kisii, Kenya
+Building Africa sovereign digital infrastructure — from the kernel up.
