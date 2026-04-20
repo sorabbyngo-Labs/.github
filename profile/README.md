@@ -60,6 +60,7 @@ The safety layer. Every AI decision passes through CML before reaching users. En
 | cml | Safety and alignment layer |
 | sorabbyngo-patches | Linux kernel drivers |
 | sorabbyngo-build | Engineering roadmap and architecture |
+| novela-monitors | Real-time patient monitor integration |
 
 ---
 
