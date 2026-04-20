@@ -33,7 +33,7 @@ The safety layer. Every AI decision passes through CML before reaching users. En
 | Layer | Technology |
 |---|---|
 | Operating System | Custom Linux 6.19.10 kernel |
-| AI Runtime | ONNX + llama.cpp + Claude API |
+| AI Runtime | ONNX + llama.cpp + Ollama (self-hosted) |
 | Networking | Byngonet mesh protocol |
 | Health Platform | Django + DRF + FHIR R4 |
 | Voice | Whisper STT + Coqui TTS |
