@@ -20,6 +20,9 @@ A full AI operating system — not an app, not a chatbot. An operating system wh
 ### Novela
 An AI health platform that works without internet. Detects counterfeit medications, supports clinical decisions, and connects patients to care — even in rural areas with no connectivity.
 
+### Novela Monitors
+Real-time patient monitoring for African hospitals. Connects bedside devices to clinician dashboards — offline-first, ward-level, low-cost hardware.
+
 ### Byngonet
 A new kind of network built for AI. Every device on Byngonet has a cryptographic identity. Devices form intelligent mesh networks automatically — no central server required.
 
@@ -52,15 +55,14 @@ The safety layer. Every AI decision passes through CML before reaching users. En
 
 | Repo | What It Does |
 |---|---|
-| sorabbyngo-os | The full AI operating system |
-| novela | AI health platform |
-| byngonet | Mesh network protocol |
-| byngox | Swarm AI reasoning engine |
-| chameha | AI personality and voice interface |
-| cml | Safety and alignment layer |
-| sorabbyngo-patches | Linux kernel drivers |
-| sorabbyngo-build | Engineering roadmap and architecture |
-| novela-monitors | Real-time patient monitor integration |
+| [sorabbyngo-os](https://github.com/sorabbyngo-Labs/sorabbyngo-os) | The full AI operating system |
+| [novela](https://github.com/sorabbyngo-Labs/novela) | AI health platform |
+| [novela-monitors](https://github.com/sorabbyngo-Labs/novela-monitors) | Real-time patient monitor integration |
+| [byngonet](https://github.com/sorabbyngo-Labs/byngonet) | Mesh network protocol |
+| [byngox](https://github.com/sorabbyngo-Labs/byngox) | Swarm AI reasoning engine |
+| [chameha](https://github.com/sorabbyngo-Labs/chameha) | AI personality and voice interface |
+| [cml](https://github.com/sorabbyngo-Labs/cml) | Safety and alignment layer |
+| [sorabbyngo-build](https://github.com/sorabbyngo-Labs/sorabbyngo-build) | Engineering roadmap and architecture |
 
 ---
 
@@ -72,12 +74,13 @@ The safety layer. Every AI decision passes through CML before reaching users. En
 | AI health platform with counterfeit detection | Done |
 | Swarm AI agent architecture | In development |
 | Voice-first boot experience | In development |
+| Real-time patient monitor integration | In development |
 | Offline AI runtime | Planned |
 | Mesh network protocol | Planned |
 | Full OS image and installer | Planned |
 
 ---
 
-**Sorabbyngo Company**  
-Kisii, Kenya  
+**Sorabbyngo Company**
+Kisii, Kenya
 Building Africa's sovereign digital infrastructure — from the kernel up.
