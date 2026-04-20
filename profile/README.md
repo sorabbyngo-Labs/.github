@@ -1,6 +1,12 @@
-# Sorabbyngo Labs
+<p align="center">
+  <img src="assets/sorabbyngo-logo.jpg" alt="Sorabbyngo" width="500"/>
+</p>
 
-**We build AI that works in Africa — offline, intelligent, and sovereign.**
+<p align="center">
+  <strong>We build AI that works in Africa — offline, intelligent, and sovereign.</strong>
+</p>
+
+---
 
 Sorabbyngo is an Africa-first AI company building a complete AI operating system from the ground up. Our technology is designed for real African conditions: low connectivity, distributed communities, and local languages.
 
@@ -9,7 +15,7 @@ Sorabbyngo is an Africa-first AI company building a complete AI operating system
 ## What We Are Building
 
 ### SORABBYNGO OS
-A full AI operating system — not an app, not a chatbot. An operating system where the intelligence is built into every layer, from the hardware identity chip to the voice interface.
+A full AI operating system — not an app, not a chatbot. An operating system where intelligence is built into every layer, from the hardware identity chip to the voice interface.
 
 ### Novela
 An AI health platform that works without internet. Detects counterfeit medications, supports clinical decisions, and connects patients to care — even in rural areas with no connectivity.
@@ -21,7 +27,7 @@ A new kind of network built for AI. Every device on Byngonet has a cryptographic
 The reasoning brain of SORABBYNGO OS. Six specialized AI agents handle health decisions, drug verification, patient context, network coordination, learning, and population health monitoring.
 
 ### Chameha
-The personality and voice of the OS. Speaks English and Swahili. Warm, intelligent, and present from the moment the device boots. Inspired by the vision of AI as a calm, helpful companion.
+The personality and voice of the OS. Speaks English and Swahili. Warm, intelligent, and present from the moment the device boots.
 
 ### CML — Cognitive Mediation Layer
 The safety layer. Every AI decision passes through CML before reaching users. Ensures outputs are safe, explainable, and compliant with Kenya data protection law.
@@ -71,6 +77,6 @@ The safety layer. Every AI decision passes through CML before reaching users. En
 
 ---
 
-**Sorabbyngo Company**
-Kisii, Kenya
-Building Africa sovereign digital infrastructure — from the kernel up.
+**Sorabbyngo Company**  
+Kisii, Kenya  
+Building Africa's sovereign digital infrastructure — from the kernel up.
