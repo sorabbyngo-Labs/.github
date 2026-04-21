@@ -63,6 +63,7 @@ The safety layer. Every AI decision passes through CML before reaching users. En
 | [chameha](https://github.com/sorabbyngo-Labs/chameha) | AI personality and voice interface |
 | [cml](https://github.com/sorabbyngo-Labs/cml) | Safety and alignment layer |
 | [sorabbyngo-build](https://github.com/sorabbyngo-Labs/sorabbyngo-build) | Engineering roadmap and architecture |
+| [identity-core](https://github.com/sorabbyngo-Labs/identity-core) | Universal ID — forensic tracing |
 
 ---
 
